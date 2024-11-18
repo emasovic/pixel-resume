@@ -20,7 +20,7 @@ export const FinishDialog = ({ onClose }: { onClose: () => void }) => (
               Feel free to reach out to me for any inquiries or opportunities:
             </p>
             <a
-              href="https://www.linkedin.com/in/elvis-masovic/"
+              href="https://www.linkedin.com/in/elvis-masovic-4b1051157/"
               target="_blank"
               rel="noopener noreferrer"
             >
