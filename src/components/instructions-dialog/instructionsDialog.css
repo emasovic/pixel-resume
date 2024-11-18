@@ -1,0 +1,21 @@
+.instructions > .info {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.character-wrapper {
+  position: relative;
+  width: 100%;
+  display: flex;
+  min-height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.character-wrapper > .character {
+  left: unset;
+  bottom: unset;
+}

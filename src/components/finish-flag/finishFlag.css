@@ -1,0 +1,16 @@
+.finish-flag {
+  position: absolute;
+  bottom: 20px;
+  left: 50%;
+  transform: translate(472px, -36px);
+  animation: finish-flag-bounce 0.5s infinite alternate;
+}
+
+@keyframes finish-flag-bounce {
+  0% {
+    transform: translate(472px, -36px);
+  }
+  100% {
+    transform: translate(472px, -46px);
+  }
+}

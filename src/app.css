@@ -1,0 +1,19 @@
+.app {
+  height: 100%;
+  width: 100%;
+  background-image: url("./assets/background.webp");
+  background-position: center;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.browser-tab {
+  position: relative;
+  max-width: 1328px;
+  width: 100%;
+  height: 600px;
+  margin-left: 26px;
+  overflow: hidden;
+}
