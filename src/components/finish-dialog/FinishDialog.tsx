@@ -26,7 +26,7 @@ export const FinishDialog = ({ onClose }: { onClose: () => void }) => (
             >
               <button className="contact-btn">LinkedIn</button>
             </a>
-            <a href="mailto:elvis.masovic@example.com">
+            <a href="mailto:emasovic@hotmail.com">
               <button className="contact-btn">Email</button>
             </a>
           </div>
