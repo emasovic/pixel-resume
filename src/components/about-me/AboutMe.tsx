@@ -4,26 +4,36 @@ import './aboutMe.css'
 export const AboutMe = () => (
   <Info>
     <h3 className="about-me">
-      I am a Fullstack Developer with a dedicated focus on frontend development,
-      bringing extensive experience in building complex web applications using
-      technologies such as React, Redux, Material UI, and Three.js. My expertise
-      lies primarily in creating dynamic and responsive user interfaces that
-      enhance user experiences across various platforms. I am proficient in
-      frontend tools and libraries like Vite, React Query, and Redux, while also
-      having a solid understanding of backend technologies, including Python,
-      FastAPI, and Node.js. Throughout my career, I have successfully developed
-      applications across diverse industries, such as social networking, VR
-      tours, and employee management systems. I have taken the lead on
-      architectural decisions, implemented best practices to minimize
-      boilerplate code, and accelerated development processes. Additionally, I
-      have overseen package upgrades and migrations to keep our software up to
-      date. I am passionate about mentoring junior developers and fostering
-      their growth within teams. My collaborative nature allows me to work
-      effectively with cross-functional teams, including UI/UX designers,
-      product management, QA, and backend engineers. With a proven track record
-      of delivering high-impact features and designing scalable frontend
-      solutions, I am eager to contribute my expertise to a forward- thinking
-      organization.
+      I am a Senior Frontend Engineer/Tech Lead with over 9 years of experience,
+      specializing in frontend architecture and modern web applications.
+      Throughout my career, I have designed and delivered scalable solutions using
+      React, TypeScript, Vite, React Query, Redux, Material UI, Three.js, and
+      Node.js, while also contributing to backend development with Python,
+      FastAPI, and Node.js.
+    </h3>
+    <h3 className="about-me">
+      My expertise extends beyond application development into technical
+      leadership. I have led frontend architecture initiatives, driven the migration of
+      legacy applications to a microfrontend architecture, and built shared libraries
+      including design systems, navigation, and configuration packages that
+      standardized development across multiple applications. I am passionate
+      about improving engineering practices through automation, testing, and
+      developer experience, introducing code generation, AI-assisted development
+      workflows, and maintaining 85–90% test coverage across projects.
+    </h3>
+    <h3 className="about-me">I enjoy solving complex technical challenges, collaborating with cross-
+      functional teams, and mentoring engineers to help them grow. Throughout
+      my career, I have worked closely with product managers, designers, QA
+      engineers, and backend teams, while leading architectural discussions,
+      conducting code reviews, and establishing engineering standards. My work
+      has consistently resulted in improved product quality, faster delivery, and
+      measurable business impact, including reducing production bugs from 30% to
+      below 10%, increasing sales through product innovation, and delivering
+      applications with high user adoption and satisfaction.
+    </h3>
+    <h3 className="about-me">I thrive in environments where I can combine hands-on development with
+      technical leadership, building scalable products while helping teams adopt
+      modern engineering practices and deliver software efficiently
     </h3>
   </Info>
 );

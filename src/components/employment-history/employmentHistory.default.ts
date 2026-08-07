@@ -8,10 +8,25 @@ type Job = {
 
 export const employmentHistory: Job[] = [
   {
-    title: "Senior Fullstack Developer",
+    title: "Senior Frontend Enigneer/Tech Lead",
+    company: "Xogito, Remote",
+    startDate: "JANUARY 2025",
+    endDate: "PRESENT",
+    responsibilities: [
+      "Led the architecture of multiple projects and drove the migration from a legacy React application to a modern microfrontend architecture.",
+      "Designed and implemented a microfrontend solution using reverse proxies, enabling the gradual adoption of the latest React ecosystem without disrupting the existing platform.",
+      "Created shared libraries for design system, navigation, and configuration, improving code reuse and ensuring a consistent user experience across all applications.",
+      "Established engineering standards and development best practices, later converting them into reusable Cursor Rules and Claude Skills to support AI-assisted development.",
+      "Introduced automated testing practices and maintained 85–90% code coverage across all microfrontends.",
+      "Conducted code reviews, mentored developers, and provided technical leadership to maintain high engineering standards.",
+      "Presented features directly to clients, increasing confidence in the platform while helping reduce production bugs from 30% to under 10%.",
+    ],
+  },
+  {
+    title: "Senior Fullstack Engineer",
     company: "Interventure, Belgrade",
     startDate: "AUGUST 2022",
-    endDate: "PRESENT",
+    endDate: "DECEMBER 2024",
     responsibilities: [
       "Actively participated in code reviews and architectural decisions.",
       "Led the initial architecture setup, utilizing Vite, React Query, Context API, Material UI, and Three.js on the frontend.",
