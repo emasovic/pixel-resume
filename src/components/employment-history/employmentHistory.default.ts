@@ -8,7 +8,7 @@ type Job = {
 
 export const employmentHistory: Job[] = [
   {
-    title: "Senior Frontend Enigneer/Tech Lead",
+    title: "Senior Frontend Engineer/Tech Lead",
     company: "Xogito, Remote",
     startDate: "JANUARY 2025",
     endDate: "PRESENT",

@@ -66,7 +66,7 @@ export const skillCategories = [
       subcategories: [
         {
           title: "Personal",
-          skills: ["Responsible", "Organized", "Flexible/Adaptive", "Detail-oriented", "Team player"]
+          skills: ["Architecture leadership - migrated legacy platforms to microfrontends without disrupting live systems.", "Mentorship at scale - grown and led frontend teams from 2 to 5 engineers across multiple companies.", "Quality-driven - maintains 85–90% automated test coverage while still shipping fast.", "Business-linked engineering ties technical decisions to measurable outcomes (bug reduction, adoption, sales growth).", "Cross-functional - works directly with product, design, QA, and clients, including presenting features to clients."]
         }
       ]
     },
